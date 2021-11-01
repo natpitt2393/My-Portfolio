@@ -54,3 +54,31 @@ nav ul li:hover {
     background-size: cover;
     background-position: center;
 }
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
+footer ul li {
+    display: inline-block;
+}
+
+footer .container1 {
+    display: flex;
+    background-color: goldenrod;
+    margin: 20px;
+    height: 100px;
+    width: 100%;
+}
+
+
+.item {
+    justify-content: space-between;
+}
