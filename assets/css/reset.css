@@ -24,7 +24,7 @@ nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: URW Chancery L, cursive ;
+    font-family: URW Chancery L, cursive;
     font-size: 20px;
 }
 
@@ -34,16 +34,16 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    margin-left: 25px;
-    text-decoration: none;
+    display: flex;
 }
 
 nav a {
     text-decoration: none;
+    color: wheat;
 }
 
-nav ul li:hover {
-    background-color:gold;
+nav a:hover {
+    background-color: black;
 }
 
 .hero {
@@ -55,30 +55,79 @@ nav ul li:hover {
     background-position: center;
 }
 
-footer {
-    padding: 30px;
+.about-me {
+    margin: 20px;
+    border: gold solid 15px;
+    width: 600px;
+    height: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.about-me h2 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.about-me p {
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.about-me img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+    border: lightcoral solid 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contact-me {
+    margin: 0;
+    padding: 15px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-footer h2 {
+.contact-me h2 {
     font-size: 20px;
 }
 
-footer ul li {
-    display: inline-block;
+.contact-me img {
+    margin-right: 20px;
 }
 
-footer .container1 {
+.contact-me a {
+    text-decoration: none;
+}
+
+.contact-me  a:hover {
+    background-color: rgb(97, 40, 40);
+    color: white;
+}
+
+
+section .container1 {
     display: flex;
-    background-color: goldenrod;
-    margin: 20px;
+    justify-content: space-between;
+    align-content: flex-start; 
+    margin: 0px;
     height: 100px;
     width: 100%;
 }
 
-
-.item {
+ section .item {
+    display: inline-block;
     justify-content: space-between;
-}
+    align-items: stretch;
+    margin: 20px;
+ }
+
+ 
