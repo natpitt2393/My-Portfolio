@@ -1,5 +1,4 @@
-# My-Portfolio
-# Code-Refactor
+# My-Portfolio 
 Project Name: My-Portfolio
 
 
@@ -16,17 +15,20 @@ Setup/Installation Requirements:
 N/A
 
 Known Bugs:
-N/A
+Email link does not work.
+Media responsiveness is not working in dev tools, but does work when resizing the browser window. Not quite sure why this is.
+Navigation bar is giving me trouble insofar as media responsiveness goes. It also is not on the same baseline as my name on the border box. Not sure how to fix that. 
 
-URLs: [Horiseon Website](https://natpitt2393.github.io/Code-Refactor/)
 
-[napitt2393/Code-Refactor](https://github.com/natpitt2393/Code-Refactor)
+URLs: [Nat Epstein's Portfolio] (https://natpitt2393.github.io/My-Portfolio/)
+
+[napitt2393/My-Portfolio](https://github.com/natpitt2393/My-Portfolio)
       
 
 Screenshot of website: 	
 
 
-![Horiseon Website](./assets/images/Screenshot.png)
+![Nat Epstein's Portfolio](./assets/images/screenshot-my-portfolio.png)
 
 License:
 Copyright (c) 2021 Nathaniel Epstein
