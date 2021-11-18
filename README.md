@@ -28,7 +28,7 @@ URLs: [Nat Epstein's Portfolio] (https://natpitt2393.github.io/My-Portfolio/)
 Screenshot of website: 	
 
 
-![Nat Epstein's Portfolio](./assets/images/screenshot-my-portfolio.png)
+![Nat Epstein's Portfolio](./assets/images/Updated-Screenshot.png)
 
 License:
 Copyright (c) 2021 Nathaniel Epstein
