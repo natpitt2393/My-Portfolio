@@ -192,7 +192,7 @@ nav a:hover {
 
 .third-work  {
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .third-work img {
@@ -201,6 +201,7 @@ nav a:hover {
    margin-right: auto;
    margin-bottom: 20px;
    margin-top: 25px;
+   width: 50%;
 }
 
 .third-work p {
@@ -319,6 +320,12 @@ section .flex-container3 {
 
  @media only screen and (max-width: 762px) {
     .second-work img {
+        width: 30%;
+    }
+ }
+
+ @media only screen and (max-width: 762px) {
+    .third-work img {
         width: 30%;
     }
  }

@@ -10,6 +10,8 @@ Description: Created a new professional portfolio from scratch. Added header and
 
 Added alt attributes to all images to improve search engine optimization and for accessibility for the visually impaired.
 
+12/30/2021 UPDATE: Projects 1 and 2 have been added. All works have links to github and deployed sites. Images updated. Media responsiveness tweaked, but still needs some work.
+
 
 Setup/Installation Requirements:
 N/A
@@ -28,7 +30,7 @@ URLs: [Nat Epstein's Portfolio] (https://natpitt2393.github.io/My-Portfolio/)
 Screenshot of website: 	
 
 
-![Nat Epstein's Portfolio](./assets/images/Updated-Screenshot.png)
+![Nat Epstein's Portfolio](./assets/images/UPDATEDPORTFOLIO.png)
 
 License:
 Copyright (c) 2021 Nathaniel Epstein
